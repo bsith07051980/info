@@ -1,5 +1,5 @@
 package website
 
-fync Show() {
+func Show() {
     return "Hello"
 }
